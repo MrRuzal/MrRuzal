@@ -8,3 +8,7 @@ My stack:
 -  Docker
 -  PostgreSQL
 -  Git
+
+Contact me:
+-------------------------
+https://t.me/oovvwvvoo
