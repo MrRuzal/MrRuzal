@@ -11,4 +11,4 @@ My stack:
 
 Contact me:
 -------------------------
-telegram https://t.me/oovvwvvoo
+Telegram: https://t.me/oovvwvvoo
