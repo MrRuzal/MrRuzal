@@ -1,6 +1,6 @@
 👋 Hi, I’m Ruzal Zakirov.
 ========================
-👀 I’m Python developer.  
+I’m Python developer.  
 -------------------------
 My stack:  
 -  Python
