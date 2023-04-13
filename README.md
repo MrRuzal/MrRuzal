@@ -3,7 +3,6 @@
 👀 I’m Python developer.  
 -------------------------
 My stack:  
--------------------------
 -  Python
 -  Django
 -  Docker
