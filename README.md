@@ -1,7 +1,7 @@
-👋 Hi, I’m @Ruzal.
+👋 Hi, I’m Ruzal Zakirov.
 ========================
-- 👀 I’m interested in python development.
-- 🌱 I am learning to write small programs, exploring the possibilities of Python. Now, I am learning Django, Docker developing a small web-project in Django.
+- 👀 I’m Python development.
+-------------------------
 -  My stack:
 -  Python
 -  Django
