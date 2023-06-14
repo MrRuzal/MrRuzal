@@ -11,5 +11,5 @@ My stack:
 
 Contact me:
 -------------------------
-[Telegram](https://t.me/freemanxxo)  
+[Telegram](https://t.me/ruzal_z)  
 [Linkedin](https://www.linkedin.com/in/ruzal-zakirov-76303b273/)
