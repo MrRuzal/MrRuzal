@@ -6,8 +6,10 @@ Python developer
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## Framework
-Django  
-Docker  
+
+![Static Badge](https://img.shields.io/badge/Django-006600?logo=django)
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
+
 PostgreSQL  
 Git
 
