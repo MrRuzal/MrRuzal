@@ -2,15 +2,23 @@ Hi, I’m Ruzal Zakirov.
 ========================
 Python developer
 -------------------------
-My stack:  
--  Python
--  Django
--  Docker
--  PostgreSQL
--  Git
+## Language 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+## Framework
+Django  
+Docker  
+PostgreSQL  
+Git
+
+## IDE
+
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> 
 
 Contact me:
 -------------------------
 [Telegram](https://t.me/ruzal_z)  
 [Linkedin](https://www.linkedin.com/in/ruzal-zakirov-76303b273/)  
-ruzal.zakiroff@gmail.com
+<a href="mailto:ruzal.zakiroff@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ruzal.zakiroff@gmail.com" />
+
+## <img src="https://github-readme-stats.vercel.app/api?username=ruzal-z&show_icons=true">
