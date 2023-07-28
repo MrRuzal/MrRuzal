@@ -9,7 +9,12 @@ Python developer
 
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
-Git
+![Static Badge](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Nginx-009639?logo=Nginx&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Gunicorn-499848?logo=Gunicorn&logoColor=white)
+
+
+
 
 ![Static Badge](https://img.shields.io/badge/Django-006600?logo=django)
 
