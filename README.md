@@ -21,4 +21,4 @@ Contact me:
 [Linkedin](https://www.linkedin.com/in/ruzal-zakirov-76303b273/)  
 <a href="mailto:ruzal.zakiroff@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ruzal.zakiroff@gmail.com" />
 
-## <img src="https://github-readme-stats.vercel.app/api?username=ruzal-z&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruzal-z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
