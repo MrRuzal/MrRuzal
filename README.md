@@ -3,7 +3,8 @@ Hi, I’m Ruzal Zakirov.
 Python developer
 -------------------------
 ## Language and Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
+
 
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
