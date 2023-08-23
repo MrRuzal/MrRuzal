@@ -31,4 +31,4 @@ Contact me:
 <a href="https://discord.gg/ruzal"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/ruzal" />
 
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Ruzal-Z)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=devbkd)
