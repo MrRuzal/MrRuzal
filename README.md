@@ -1,6 +1,7 @@
 Hi, I’m Ruzal Zakirov.
 ========================
-Python developer - specializing in building scalable and efficient web applications.
+Python developer.  
+I specialize in creating scalable and efficient web applications.
 -------------------------
 ## Languages and Tools
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
