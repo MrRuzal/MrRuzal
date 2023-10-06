@@ -13,7 +13,7 @@ Hi, I’m Ruzal Zakirov.
 ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-009639?logo=Nginx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gunicorn-499848?logo=Gunicorn&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Unittest%20-000000?logo=unittest%20&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Unittest-3776AB?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pytest-0A9EDC?logo=Pytest&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Django-006600?logo=django)
