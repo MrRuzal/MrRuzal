@@ -33,7 +33,8 @@ Contact me:
 <a href="mailto:ruzal.zakiroff@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ruzal.zakiroff@gmail.com" />
 <a href="https://discord.gg/ruzal"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/ruzal" />
 
-
+Statistics:
+-------------------------
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=devbkd)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbkd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
