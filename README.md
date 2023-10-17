@@ -35,3 +35,5 @@ Contact me:
 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=devbkd)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbkd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
