@@ -15,8 +15,12 @@ Hi, I’m Ruzal Zakirov.
 ![Static Badge](https://img.shields.io/badge/Gunicorn-499848?logo=Gunicorn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Unittest-3776AB?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pytest-0A9EDC?logo=Pytest&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Poetry-60A5FA?logo=poetry&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Django-006600?logo=django)
+![Static Badge](https://img.shields.io/badge/Django-006600?logo=django) 
+![Static Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
