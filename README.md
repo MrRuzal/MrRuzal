@@ -1,4 +1,4 @@
-Hi, I’m Ruzal Zakirov.
+Hi, I’m Ruzal.
 ========================
 ### I am a Python developer specializing in building scalable and efficient web applications.
 
